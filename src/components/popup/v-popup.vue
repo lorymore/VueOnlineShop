@@ -69,6 +69,7 @@ export default {
 
 <style lang="scss">
 .popup_wrapper{
+  min-height: 1030px;
   display: flex;
   justify-content: center;
   align-items: center;
